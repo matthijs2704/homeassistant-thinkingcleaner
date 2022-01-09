@@ -1,0 +1,2 @@
+homeassistant
+pythinkingcleaner==0.0.3
