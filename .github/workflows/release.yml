@@ -24,7 +24,7 @@ jobs:
         if: ${{steps.semantic_release_info.outputs.version != ''}}
         uses: jossef/action-set-json-field@v1
         with:
-          file: custom_components/samsungmdc/manifest.json
+          file: custom_components/thinkingcleaner/manifest.json
           field: version
           value: ${{ steps.semantic_release_info.outputs.version }}
 
