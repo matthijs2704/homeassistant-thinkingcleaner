@@ -1,0 +1,15 @@
+{
+    "domain": "thinkingcleaner",
+    "name": "Thinking Cleaner",
+    "version": "0.1.0",
+    "documentation": "https://github.com/matthijs2704/homeassistant-thinkingcleaner",
+    "issue_tracker": "https://github.com/matthijs2704/homeassistant-thinkingcleaner/issues",
+    "zeroconf": [],
+    "requirements": [
+        "pythinkingcleaner==0.0.3"
+    ],
+    "codeowners": [
+        "@matthijs2704"
+    ],
+    "iot_class": "local_polling"
+}
